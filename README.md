@@ -30,7 +30,7 @@ no dependencies outside of stdlib. just python 3.10+.
 
 ## showcase
 
-<video src="showcase/video.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/edbd85ef-684f-443a-9d15-22a3d0e3acec" controls width="100%"></video>
 
 ---
 
@@ -44,7 +44,7 @@ no dependencies outside of stdlib. just python 3.10+.
 
 ## made by
 
-**ryze** · discord: `ryze.xzy`
+**ryze** ï¿½ discord: `ryze.xzy`
 server: [discord.gg/unimaginablev1](https://discord.gg/unimaginablev1)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1420036436505268244?theme=dark&bg=1a1a2e&borderRadius=10px&idleMessage=probably+cooking+something)](https://discord.com/users/1420036436505268244)
